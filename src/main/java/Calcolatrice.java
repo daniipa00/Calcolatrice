@@ -1,6 +1,6 @@
 public class Calcolatrice {
     private int a, b;
-
+ //ciao
     public Calcolatrice(){
         this.a = 0;
         this.b = 0;
